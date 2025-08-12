@@ -1,3 +1,27 @@
+<!-- Portfolyo Sitesi: Hızlı Başlangıç -->
+## Kerem Erol — Portfolyo Sitesi
+
+Bu depo, profesyonel ve gösterişli bir kişisel web sayfası içerir. Başlamak için:
+
+1) Yerel sunucu başlatın:
+
+```bash
+cd /Users/keremerol/Desktop/github-repolar/kerem-vi-1
+python3 -m http.server 5173
+```
+
+2) Tarayıcıdan `http://localhost:5173` adresine gidin.
+
+Özelleştirme:
+- Metinler: `index.html`
+- Renk/Tema: `assets/css/styles.css` → `:root`
+- Etkileşimler: `assets/js/main.js`
+
+Dağıtım:
+- GitHub Pages (Root): Ayarlar → Pages → Branch: `main` / `(root)`
+
+---
+
 ## Hi there 👋
 
 
